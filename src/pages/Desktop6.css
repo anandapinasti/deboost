@@ -1,0 +1,433 @@
+.desktop-6 .profile {
+  overflow-wrap: break-word;
+  font-family: 'Biryani';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-4 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  padding: 0.5px 0 0 1px;
+  width: 142px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .cake {
+  margin: 0.5px 0 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Biryani';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .cookies {
+  overflow-wrap: break-word;
+  font-family: 'Biryani';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-6 {
+  border-radius: 10px;
+  background: #CC9E91;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 0.5px 1px 0 0;
+  width: 142px;
+  box-sizing: border-box;
+}
+.desktop-6 .contact {
+  overflow-wrap: break-word;
+  font-family: 'Biryani';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-11 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  display: flex;
+  padding: 0.5px 0 0 1px;
+  width: 142px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-3 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  width: 304px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 630px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .rectangle-3 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: absolute;
+  right: 405px;
+  bottom: 15px;
+  width: 142px;
+  height: 28px;
+}
+.desktop-6 .group-3 {
+  background: #889AA0;
+  position: relative;
+  margin: 0 1px 22.5px 0;
+  display: flex;
+  padding: 16px 80px 14.5px 80px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-6 .dessert-booster {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 64px;
+  color: #CC9E91;
+}
+.desktop-6 .boost-of-sweetness {
+  position: absolute;
+  right: 9.4px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Biryani';
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 5.2px;
+  color: #CC9E91;
+}
+.desktop-6 .group-5 {
+  position: relative;
+  margin: 0 92px 82px 92px;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 25.5px;
+  box-sizing: border-box;
+}
+.desktop-6 .nastar {
+  margin-bottom: 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  color: #CC9E91;
+}
+.desktop-6 .line-1 {
+  background: #CC9E91;
+  margin: 0 176px 11px 0;
+  width: 577px;
+  height: 0px;
+}
+.desktop-6 .kue-kering-dengan-isian-selai-nanas-lezat {
+  margin-right: 358.1px;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #CC9E91;
+}
+.desktop-6 .container-10 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  margin: 0 81px 75px 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 31px 95px 79px 95px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .putri-salju {
+  margin-bottom: 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  color: #CC9E91;
+}
+.desktop-6 .line-2 {
+  background: #CC9E91;
+  margin: 0 176px 11px 0;
+  width: 577px;
+  height: 0px;
+}
+.desktop-6 .perpaduan-rasa-kacang-mede-dengan-manisnya-balutan-gula-tepung {
+  margin-right: 210.4px;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #CC9E91;
+}
+.desktop-6 .container-13 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  margin: 0 81px 75px 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 95px 47px 95px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .lidah-kucing {
+  margin: 0 421.3px 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  color: #CC9E91;
+}
+.desktop-6 .line-3 {
+  background: #CC9E91;
+  margin: 0 0 11px 5px;
+  width: 577px;
+  height: 0px;
+}
+.desktop-6 .perpaduan-rasa-gurih-yang-enak-dengan-renyahnya-tekstur-kue {
+  margin-right: 66.5px;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #CC9E91;
+}
+.desktop-6 .container {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  margin: 0 81px 75px 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 0 47px 0;
+  width: 953px;
+  box-sizing: border-box;
+}
+.desktop-6 .sagu-keju {
+  margin: 0 457.7px 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  color: #CC9E91;
+}
+.desktop-6 .line-4 {
+  background: #CC9E91;
+  margin: 0 0 11px 5px;
+  width: 577px;
+  height: 0px;
+}
+.desktop-6 .gurihnya-rasa-keju-yang-berpadu-dengan-tekstur-kue-sagu-yang-meleleh-di-lidah {
+  margin-right: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #CC9E91;
+}
+.desktop-6 .container-2 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  margin: 0 81px 75px 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 27px 0 49px 0;
+  width: 953px;
+  box-sizing: border-box;
+}
+.desktop-6 .kastangel-keju {
+  margin: 0 400.3px 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 24px;
+  color: #CC9E91;
+}
+.desktop-6 .line-5 {
+  background: #CC9E91;
+  margin: 0 0 11px 5px;
+  width: 577px;
+  height: 0px;
+}
+.desktop-6 .kue-gurih-yang-kaya-akan-rasa-keju-yang-nikmat {
+  margin-right: 93.8px;
+  overflow-wrap: break-word;
+  font-family: 'Besley';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #CC9E91;
+}
+.desktop-6 .container-14 {
+  border-radius: 10px;
+  background: #EDCFCD;
+  position: relative;
+  margin: 0 81px 75px 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 22px 0 88px 0;
+  width: 953px;
+  box-sizing: border-box;
+}
+.desktop-6 .jl-kp-soreang-kolot-sebelah-tara-sushi-soreang-bandung {
+  overflow-wrap: break-word;
+  font-family: 'Biryani';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.desktop-6 .container-12 {
+  background: #889AA0;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  padding: 15.5px 0 16.5px 1px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 1441px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-6 .whats-app-image-20240707-at-18083321 {
+  background: url('assets/images/WhatsAppImage20240707At18083321.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .rectangle-16 {
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.15);
+  position: relative;
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .container-7 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 81px;
+  top: 296px;
+  display: flex;
+  width: 386px;
+  height: 207px;
+  box-sizing: border-box;
+}
+.desktop-6 .whats-app-image-20240707-at-18083322 {
+  background: url('assets/images/WhatsAppImage20240707At180833221.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 81px;
+  top: 578px;
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .rectangle-18 {
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.15);
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .container-8 {
+  background: url('assets/images/WhatsAppImage20240707At180833231.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 81px;
+  bottom: 699px;
+  display: flex;
+  width: 386px;
+  height: 207px;
+  box-sizing: border-box;
+}
+.desktop-6 .rectangle-19 {
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.15);
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .container-9 {
+  background: url('assets/images/WhatsAppImage20240707At180833241.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 81px;
+  bottom: 417px;
+  display: flex;
+  width: 386px;
+  height: 207px;
+  box-sizing: border-box;
+}
+.desktop-6 .whats-app-image-20240707-at-18083325 {
+  background: url('assets/images/WhatsAppImage20240707At18083325.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 81px;
+  bottom: 135px;
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .rectangle-17 {
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 81px;
+  top: 574px;
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 .rectangle-20 {
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 81px;
+  bottom: 139px;
+  width: 386px;
+  height: 207px;
+}
+.desktop-6 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
